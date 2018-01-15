@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/supportPhone"
+            android:icon="@drawable/ic_call_white_24dp"
+            android:title="Phone"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/supportMail"
+            android:icon="@drawable/ic_mail_outline_white_24dp"
+            android:title="Mail"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/supportMap"
+            android:icon="@drawable/ic_map_white_24dp"
+            android:title="Map"
+            app:showAsAction="always"/>
+    </group>
+
+</menu>

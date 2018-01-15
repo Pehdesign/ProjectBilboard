@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">Project Bilboard</string>
+    <string name="email_address">projectbilboard@outlook.com</string>
+    <string name="add_textbox_hint">Add a ToDo item</string>
+    <string name="add_button_text">Add</string>
+    <string name="service_title">Mobile Apps </string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="checkbox_text">Item Text</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_delete">Usuń wszystkie zdjęcia</string>
+
+
+    <string name="title_activity_retrieve_photos">RetrievePhotosActivity</string>
+
+
+    <string-array name="tags">
+        <item>Praca</item>
+        <item>Usługi</item>
+        <item>Nieruchomości</item>
+        <item>Motoryzacja</item>
+        <item>Elektronika</item>
+    </string-array>
+
+    <string-array name="region">
+        <item>Dolnośląskie</item>
+        <item>Kujawsko-pomorskie</item>
+        <item>Lubelskie</item>
+        <item>Lubuskie</item>
+        <item>Łódzkie</item>
+        <item>Małopolskie</item>
+        <item>Mazowieckie</item>
+        <item>Opolskie</item>
+        <item>Podkarpackie</item>
+        <item>Podlaskie</item>
+        <item>Pomorskie</item>
+        <item>Śląskie</item>
+        <item>Świętokrzyskie</item>
+        <item>Warmińsko-mazurskie</item>
+        <item>Wielkopolskie</item>
+        <item>Zachodniopomorskie</item>
+    </string-array>
+
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
